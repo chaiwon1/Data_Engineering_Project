@@ -77,9 +77,11 @@ start_time, hour, day, week, month, year, weekday
 
 `create_tables.py` -> DB 생성 및 테이블 생성 코드.
 
-`etl.ipynb` -> 데이터 로드 전 데이터 확인용 jupyter notebook.
+`etltest.ipynb` -> 데이터 로드 전 데이터 확인용 jupyter notebook.
 
 `etl.py` -> 노래데이터와 로그데이터 로드와 적재.
+
+`main.py` -> 실행 시, 자동으로 `create_tables.py`와 `etl.py` 실행.
 
 `test.ipynb` -> 데이터 적재 확인용 jupyter notebook.
 
