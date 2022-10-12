@@ -7,7 +7,7 @@
 - 스크랩되는 정보는 `title`, `price`, `rating`, `in stock`, `url`이다. 
 
 
-- 스크랩하는 페이지는 <a href="http://books.toscrape.com/">books.toscrape.com이다. </a>
+- 스크랩하는 페이지는 <a href="http://books.toscrape.com/">books.toscrape.com</a>이다. 
 
 
 - 스크랩된 데이터는 localhost port:27017에 `books`라는 이름의 db에 `titles`라는 이름으로 적재된다. 
